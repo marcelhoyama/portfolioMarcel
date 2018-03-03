@@ -29,7 +29,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
         </button>
-      <a class=" navbar-brand" href="http://www.marecrispc.blogspot.com.br/">BLOG</a>
+      <a class=" navbar-brand" href="http://www.tecnicoinformaticacabreuva.blogspot.com.br/">BLOG</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -97,33 +97,79 @@
 						<img alt="salgadosakio" src="assets/img/akionovo.png" />
 						<div class="caption">
 							<h3>
-							Akio - Pastéis e Salgados Site em Construção -tipo informativo
+							Akio - Pastéis e Salgados Site tipo informativo
 							</h3>
 							<p>
 							Nova cara, novo layout, sendo feitas com ferramentas atuais e com meus estudos, pesquisas e dedicação.
                                                         </p>
-								<a class="btn btn-primary" href="../akioSalgados/home">Visitar</a> 
+								<a class="btn btn-primary" href="http://www.salgadosakio.com.br">Visitar</a> 
 							
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="thumbnail">
-						<img alt="salgadosakio" src="assets/img/akiosalgadossite.png" />
+						<img alt="dmr-imoveis-em-cabreuva" src="assets/img/sem-imagem.gif" />
 						<div class="caption">
 							<h3>
-								Akio Salgados - Site Oficial deles - Sou novo administrador do site
+								DMR Imóveis em Cabreúva
 							</h3>
 							<p>
-                                                        Esse site precisa de flashplayer já esta no ar, ficou desatualizado, ferramentas obsoleto onde nao pode usar PHP, CSS, JS.    
-							Com a nova administração, esta sendo feito atualização, manuntenção e modificações onde for possivel. 
+                                                       Criando o site! Em manutenção...
                                                         </p>
-								<a class="btn btn-primary" href="http://www.salgadosakio.com.br" >Visitar</a>
+								<a class="btn btn-primary" href="../ronyImoveis/index.php" >Visitar</a>
 							
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4">
+				
+                            
+                            <div class="col-md-4">
+					<div class="thumbnail">
+						<img alt="sidcellinformatica" src="assets/img/sidcell.png" />
+						<div class="caption">
+							<h3>
+								SIDCELL Informática - Site informativo
+							</h3>
+							<p>
+                                                       Site está no ar recentemente, ainda em construção.  </p>
+								<a class="btn btn-primary" href="http://www.sidcellinformatica.com.br" >Visitar</a>
+							
+						</div>
+					</div>
+				</div>
+                            
+                             <div class="col-md-4">
+					<div class="thumbnail">
+						<img alt="cdi" src="assets/img/cdi.png" />
+						<div class="caption">
+							<h3>
+								CDI - Centro Digital Informatica
+							</h3>
+							<p>
+                                                            Site informativo em negociação </p>
+                                                       	<a class="btn btn-primary" href="../centrodigital/index.php" >Visitar</a>
+							
+						</div>
+					</div>
+				</div>
+                            
+                             <div class="col-md-4">
+					<div class="thumbnail">
+						<img alt="artesanatos" src="assets/img/sem-imagem.gif" />
+						<div class="caption">
+							<h3>
+								Nome não divulgar - site de Artesanatos
+							</h3>
+							<p>
+                                                            Site em negociação
+                                                       	<a class="btn btn-primary" href="#" >Visitar</a>
+							</p>
+						</div>
+					</div>
+				</div>
+                            
+                            <div class="col-md-4">
 					<div class="thumbnail">
 						<img alt="tcc" src="assets/img/sisnutri.jpg" />
 						<div class="caption">
@@ -145,50 +191,6 @@
 
 							<a class="btn btn-primary" href="<?php BASE_URL ?>login">Visitar</a> 
 							
-						</div>
-					</div>
-				</div>
-                            
-                            <div class="col-md-4">
-					<div class="thumbnail">
-						<img alt="sidcellinformatica" src="assets/img/sidcell.png" />
-						<div class="caption">
-							<h3>
-								SIDCELL Informática - Em construção
-							</h3>
-							<p>
-                                                       Site está no ar recentemente, ainda em construção. Site informativo próprio junto com meu amigo Sidnei Gonçalves, onde divulgo meus serviços de freelancer e faço em horas vagas.  </p>
-								<a class="btn btn-primary" href="http://www.sidcellinformatica.com.br" >Visitar</a>
-							
-						</div>
-					</div>
-				</div>
-                            
-                             <div class="col-md-4">
-					<div class="thumbnail">
-						<img alt="cdi" src="assets/img/cdi.png" />
-						<div class="caption">
-							<h3>
-								CDI - Centro Digital Informatica
-							</h3>
-							<p>
-                                                            Site informativo em construção </p>
-                                                       	<a class="btn btn-primary" href="../centrodigital/index.php" >Visitar</a>
-							
-						</div>
-					</div>
-				</div>
-                            
-                             <div class="col-md-4">
-					<div class="thumbnail">
-						<img alt="blogmarecrispc" src="assets/img/" />
-						<div class="caption">
-							<h3>
-								
-							</h3>
-							<p>
-                                                       	<a class="btn btn-primary" href="#" >Visitar</a>
-							</p>
 						</div>
 					</div>
 				</div>
