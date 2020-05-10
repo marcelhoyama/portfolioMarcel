@@ -16,10 +16,10 @@ if (ENVIRONMENT == 'development') {
 else{
 
 		define("BASE_URL", "http://devmg.pe.hu/");
-        $config['dbname']='u708362941_portf';
-	$config['host']='mysql.hostinger.com.br';
-	$config['dbuser']='u708362941_marce';
-	$config['dbpass']='170655';
+        $config['dbname']='';
+	$config['host']='';
+	$config['dbuser']='';
+	$config['dbpass']='';
 }
 
 
